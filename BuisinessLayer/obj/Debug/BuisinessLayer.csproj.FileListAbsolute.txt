@@ -1,0 +1,13 @@
+C:\Users\caleb\source\repos\Assgt1\BuisinessLayer\obj\Debug\BuisinessLayer.csprojAssemblyReference.cache
+C:\Users\caleb\source\repos\Assgt1\BuisinessLayer\obj\Debug\BuisinessLayer.Properties.Resources.resources
+C:\Users\caleb\source\repos\Assgt1\BuisinessLayer\obj\Debug\BuisinessLayer.csproj.GenerateResource.cache
+C:\Users\caleb\source\repos\Assgt1\BuisinessLayer\obj\Debug\BuisinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\Assgt1\BuisinessLayer\bin\Debug\BuisinessLayer.pdb
+C:\Users\caleb\source\repos\Assgt1\BuisinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\caleb\source\repos\Assgt1\BuisinessLayer\obj\Debug\BuisinessLayer.csproj.CopyComplete
+C:\Users\caleb\source\repos\Assgt1\BuisinessLayer\obj\Debug\BuisinessLayer.pdb
+C:\Users\caleb\source\repos\Assgt1\BuisinessLayer\bin\Debug\BuisinessLayer.dll.config
+C:\Users\caleb\source\repos\Assgt1\BuisinessLayer\bin\Debug\BuisinessLayer.dll
+C:\Users\caleb\source\repos\Assgt1\BuisinessLayer\bin\Debug\DataLayer.dll
+C:\Users\caleb\source\repos\Assgt1\BuisinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\caleb\source\repos\Assgt1\BuisinessLayer\obj\Debug\BuisinessLayer.dll

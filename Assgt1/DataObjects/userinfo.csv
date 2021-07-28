@@ -1,0 +1,4 @@
+emailaddress,Password,ShipNo,ShipStreet,ShipCode,BillNo,BillStreet,BillCode,SameAsShipping
+caleb.williams123@gmail.com,justhackme,123,Fakestreet,2287,same,same,same,FALSE
+maddog123@hotmail.com,toughpass,666,Madcity,1408,same,same,same,TRUE
+jackson@hotmail.com,easyAs123,12,backstreet,1234,14,backstreet,1234,FALSE

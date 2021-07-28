@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Forms.Master.cs" Inherits="Assgt1.Site2" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <img src="Images/logo.png" />
+    
+
+        <div class="form form-sign in">
+            <form runat="server">
+             
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+
+            </form>
+        </div>
+    </div>
+</body>
+</html>

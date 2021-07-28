@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="NestedMasterPage1.master.cs" Inherits="Assgt1.NestedMasterPage1" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+
+    <form runat ="server">
+    
+        
+
+        <div class="row">
+            <div class="col-md-3">
+            <asp:ContentPlaceHolder ID="sidebar" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+            <div class="col">
+                <asp:ContentPlaceHolder ID="mainbody" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+
+        </div>
+        <!--</div> -->
+
+
+    </form>
+</asp:Content>

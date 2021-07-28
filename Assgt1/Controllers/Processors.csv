@@ -1,0 +1,5 @@
+﻿ProductID,ProductSku,Manufacturer,PreviewImg,Generation,Model,Price
+1,i5,Intel,https://static.bhphoto.com/images/images1500x1500/intel_bx80684i59600k_core_i5_9600k_3_7_ghz_1539027947000_1435919.jpg,9th,9600k,299.95
+2,i7,Intel,https://www.bhphotovideo.com/images/images1500x1500/intel_bx80684i79700k_core_i7_9700k_3_6_ghz_1435918.jpg,9th,9700k,449.95
+3,i9,Intel,https://www.bhphotovideo.com/images/images1500x1500/intel_bx80684i79700k_core_i7_9700k_3_6_ghz_1435918.jpg,9th,9900k,649.95
+4,Ryzen 5,AMD,https://cdn.mwave.com.au/images/400/amd_ryzen_5_5600x_6core_am4_370_ghz_unlocked_cpu_processor_wraith_stealth_ac39467_3.jpg,5th,5600x,499.95

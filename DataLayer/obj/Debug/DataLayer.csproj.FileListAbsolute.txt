@@ -1,0 +1,12 @@
+C:\Users\caleb\source\repos\Assgt1\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\caleb\source\repos\Assgt1\DataLayer\obj\Debug\DataLayer.Properties.Resources.resources
+C:\Users\caleb\source\repos\Assgt1\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache
+C:\Users\caleb\source\repos\Assgt1\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\Assgt1\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\caleb\source\repos\Assgt1\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\caleb\source\repos\Assgt1\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\caleb\source\repos\Assgt1\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\caleb\source\repos\Assgt1\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\caleb\source\repos\Assgt1\DataLayer\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\caleb\source\repos\Assgt1\DataLayer\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\caleb\source\repos\Assgt1\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete

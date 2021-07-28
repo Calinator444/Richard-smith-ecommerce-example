@@ -1,0 +1,6 @@
+﻿Status,DateCreated,CustomerID,Subtotal,OrderID,emailaddress
+Pending,1/11/2021,1,$800,1,caleb.williams123@gmail.com
+Cancelled,2/07/2020,2,$900,2,jackson@hotmail.com
+Received,3/06/2019,1,$352,3,maddog123@hotmail.com
+Pending,1/03/2013,2,$245,4,maddog123@hotmail.com
+Received,5/04/2015,1,$235,5,caleb.williams123@gmail.com
